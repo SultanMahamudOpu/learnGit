@@ -29,6 +29,18 @@ ll lcm(ll a, ll b) { return a * (b / gcd(a, b)); }
 
 void solve()
 {
+    for (int i = 0; i < 5; i++)
+    {
+        cout << i << endl;
+    }
+    for (int i = 0; i < 5; i++)
+    {
+        cout << i << endl;
+    }
+    for (int i = 0; i < 5; i++)
+    {
+        cout << i << endl;
+    }
 }
 
 int main()
